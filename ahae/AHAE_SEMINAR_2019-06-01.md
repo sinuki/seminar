@@ -33,7 +33,7 @@ JAVA8말고 JAVA9를 써볼까[김형진 님 발표]
         - 하위 클래스가 재정의 할 수 없으므로 구현부를 지녀야 함
     - private static method
         - private method와 마찬가지.
-    - private method와 private static method의 차이는 가시성에 있음. private method는 인터페이스 내에서만 사용 가능하지만 private static method는 다른 static이나 non-static인터페이스에서 사용될 수 있음.
+    - private method는 인터페이스 내에서만 사용 가능하지만 private static method는 다른 static이나 non-static인터페이스에서 사용될 수 있음.
 6) try-with-resources
     - 외부 변수를 위드문에 바로 사용 가능
 7) 익명 클래스에서 다이아몬드 연산자 사용가능
